@@ -25,6 +25,9 @@ A aplicação permite criar um objeto `Celular`, definir suas propriedades e exe
 - Validar estado do celular (não é possível ligar se já estiver ligado, etc.).
 
 ## 🔧 Pré-requisitos
-Antes de rodar o projeto, certifique-se de ter instalado:
+Antes de executar o projeto, é necessário ter instalado:
+- Editor como [Visual Studio Code](https://code.visualstudio.com/) ou [Visual Studio](https://visualstudio.microsoft.com/)
+
+## ▶️ Como Executar
 
 ✍️ Desenvolvido para fins educacionais, aplicando conceitos de POO em C#.
